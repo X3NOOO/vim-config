@@ -1,4 +1,4 @@
-https://github.com/X3NOOO/"numbers
+"numbers
 set nu!
 "wrap long lines
 set wrap

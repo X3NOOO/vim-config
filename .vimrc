@@ -15,10 +15,6 @@ set encoding=utf-8
 set history=100
 "mouse support
 set mouse=a
-"emmet
-let g:user_emmet_mode='n'
-let g:user_emmet_install_global = 0
-autocmd FileType html,css,javascript EmmetInstall
 set list
 set listchars=tab:›\ ,trail:•,extends:>,precedes:<,nbsp:.
 "better tab

@@ -30,3 +30,5 @@ set smartindent
 set wildmenu
 "confirm unsaved changes
 set confirm
+
+# config by X3NO (https://github.com/X3NOOO/)

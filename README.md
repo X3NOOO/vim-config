@@ -1,5 +1,5 @@
 ## vim-config
 My vim config
 
-##Inatallation
-To install type `git clone https://github.com/X3NOOO/vim-config/.vimrc ~/`
+## Inatallation
+To install paste `.vimrc` to `~/`

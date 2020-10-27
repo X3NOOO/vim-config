@@ -1,4 +1,4 @@
-"numbers
+https://github.com/X3NOOO/"numbers
 set nu!
 "wrap long lines
 set wrap
@@ -27,4 +27,4 @@ set wildmenu
 "confirm unsaved changes
 set confirm
 
-# config by X3NO (https://github.com/X3NOOO/)
+" config by X3NO (https://github.com/X3NOOO/)

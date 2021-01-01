@@ -8,8 +8,6 @@ syntax enable
 filetype plugin indent on
 set showmatch
 set hlsearch
-set autoindent
-set smartindent
 set wildmenu
 set confirm
 set autowrite
@@ -50,4 +48,4 @@ endif
 set tabstop=3
 set softtabstop=3
 
-" config by X3NO (https://github.com/X3NOOO/)
+"config by X3NO (https://github.com/X3NOOO/)
